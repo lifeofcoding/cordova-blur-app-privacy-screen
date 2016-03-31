@@ -1,0 +1,27 @@
+{
+  "name": "BlurAppPrivacyScreen",
+  "version": "0.0.1",
+  "description": "Blurs app content when in background for auto IOS snapshot",
+  "cordova": {
+    "id": "cordova-blur-app-privacy-screen",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifeofcoding/cordova-blur-app-privacy-screen"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "hipaa",
+    "privacy",
+    "snapshot",
+    "switcher",
+    "secure"
+  ],
+  "author": "Jimmy Rousseau",
+  "license": "MIT"
+}

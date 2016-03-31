@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="cordova-blur-app-privacy-screen" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+  <name>BlurAppPrivacyScreen</name>
+  <platform name="ios">
+    <config-file parent="/*" target="config.xml">
+      <feature name="BlurAppPrivacyScreen">
+        <param name="ios-package" value="BlurAppPrivacyScreen" />
+      </feature>
+    </config-file>
+
+    <source-file src="src/ios/BlurPrivacyScreen.m" />
+  </platform>
+</plugin>

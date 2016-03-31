@@ -1,5 +1,5 @@
 {
-  "name": "BlurAppPrivacyScreen",
+  "name": "blur-app-privacy-screen",
   "version": "0.0.1",
   "description": "Blurs app content when in background for auto IOS snapshot",
   "cordova": {

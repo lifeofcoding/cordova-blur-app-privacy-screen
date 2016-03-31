@@ -1,7 +1,7 @@
 {
-  "name": "blur-app-privacy-screen",
+  "name": "cordova-plugin-blurry-privacy-screen",
   "version": "0.0.1",
-  "description": "Blurs app content when in background for auto IOS snapshot",
+  "description": "Blurs your app when put into the background to prevent iOS snapshot feature from showing sensitive information.",
   "cordova": {
     "id": "cordova-blur-app-privacy-screen",
     "platforms": [

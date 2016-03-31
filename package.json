@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lifeofcoding/cordova-blur-app-privacy-screen"
+    "url": "git+https://github.com/lifeofcoding/cordova-blur-app-privacy-screen.git"
   },
   "keywords": [
     "cordova",
@@ -23,5 +23,9 @@
     "secure"
   ],
   "author": "Jimmy Rousseau",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lifeofcoding/cordova-blur-app-privacy-screen/issues"
+  },
+  "homepage": "https://github.com/lifeofcoding/cordova-blur-app-privacy-screen#readme"
 }
